@@ -1,0 +1,13 @@
+D:\My Project\C#\NIC_Calculator\NIC_Calculator\bin\Debug\NIC_Calculator.exe.config
+D:\My Project\C#\NIC_Calculator\NIC_Calculator\bin\Debug\NIC_Calculator.exe
+D:\My Project\C#\NIC_Calculator\NIC_Calculator\bin\Debug\NIC_Calculator.pdb
+D:\My Project\C#\NIC_Calculator\NIC_Calculator\obj\Debug\NIC_Calculator.csprojResolveAssemblyReference.cache
+D:\My Project\C#\NIC_Calculator\NIC_Calculator\obj\Debug\NIC_Calculator.Form1.resources
+D:\My Project\C#\NIC_Calculator\NIC_Calculator\obj\Debug\NIC_Calculator.Properties.Resources.resources
+D:\My Project\C#\NIC_Calculator\NIC_Calculator\obj\Debug\NIC_Calculator.csproj.GenerateResource.Cache
+D:\My Project\C#\NIC_Calculator\NIC_Calculator\obj\Debug\NIC_Calculator.exe
+D:\My Project\C#\NIC_Calculator\NIC_Calculator\obj\Debug\NIC_Calculator.pdb
+D:\My Project\C#\NIC_Calculator\NIC_Calculator\bin\Debug\NIC_Calculator.exe.manifest
+D:\My Project\C#\NIC_Calculator\NIC_Calculator\bin\Debug\NIC_Calculator.application
+D:\My Project\C#\NIC_Calculator\NIC_Calculator\obj\Debug\NIC_Calculator.exe.manifest
+D:\My Project\C#\NIC_Calculator\NIC_Calculator\obj\Debug\NIC_Calculator.application
